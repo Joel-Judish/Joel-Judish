@@ -1,6 +1,6 @@
 # Hi there! I am Joel Judish👋
 
-Welcome to my GitHub profile! I'm a *Full Stack Web Developer* and *CyberSecurity Enthusiast* passionate about Web development and exploring the latest technologies in CyberSecurity.
+Welcome to my GitHub profile! I'm a *Full Stack Web Developer* and *CyberSecurity Enthusiast* passionate about Web Development and exploring the latest technologies in CyberSecurity.
 
 ---
 
