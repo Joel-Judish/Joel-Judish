@@ -1,6 +1,16 @@
-- 👋 Hi, I’m @Joel Judish
-- 👀 I’m interested in Web Development and Cyber Security
-- 🌱 I’m currently learning Web Development
+# Hi there! I am Joel Judish👋
+
+Welcome to my GitHub profile! I'm a *Full Stack Web Developer* and *CyberSecurity Enthusiast* passionate about Web development and exploring the latest technologies in CyberSecurity.
+
+---
+
+## 👨‍💻 About Me
+🎓 Final Year B.Tech Computer Science and Engineering Student
+
+🌟 Aspiring Full Stack Web Developer
+
+🚀 Currently diving deep into Full Stack Web Development
+
 - 💞️ I’m looking to collaborate on Web development & Ethical Hacking Projects
 - 📫 How to reach me https://www.linkedin.com/in/joel-judish/
 
