@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a *Full Stack Web Developer* and *CyberSecurit
 - 🎨 *CSS3*   
 - 📜 *JavaScript (Beginner)*  
 - 🐍 *Python (Beginner)*
-- - ⚙️ *C*  
+- ⚙️ *C*  
 - 🚀 *C++*  
 - ☕ *Java*  
 - 🗄️ *MySQL*  
