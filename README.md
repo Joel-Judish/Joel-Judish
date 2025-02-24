@@ -23,6 +23,15 @@ Welcome to my GitHub profile! I'm a *Full Stack Web Developer* and *CyberSecurit
 
 🔧 I'm always eager to explore and experiment with new technologies, continuously enhancing my skillset.
 
+<h2 align="center"><b>🌐 Languages & Technologies Known 🌐</b></h2>
+<br/>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js" />
+  </a>
+</p>
+
 
 
 - 💞️ I’m looking to collaborate on Web development & Ethical Hacking Projects
