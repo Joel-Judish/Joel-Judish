@@ -13,12 +13,15 @@ Welcome to my GitHub profile! I'm a *Full Stack Web Developer* and *CyberSecurit
 
 💻 Skills & Technologies
 - 🌟 *HTML5*  
-- 🎨 *CSS3*  
-- 💅 *Bootstrap*  
+- 🎨 *CSS3*   
 - 📜 *JavaScript (Beginner)*  
-- 🐍 *Python (Beginner)*  
+- 🐍 *Python (Beginner)*
+- - ⚙️ *C*  
+- 🚀 *C++*  
+- ☕ *Java*  
+- 🗄️ *MySQL*  
 
-🔧 I'm always excited to learn and experiment with new tools and frameworks.
+🔧 I'm always eager to explore and experiment with new technologies, continuously enhancing my skillset.
 
 
 
