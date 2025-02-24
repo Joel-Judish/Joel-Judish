@@ -9,21 +9,11 @@ Welcome to my GitHub profile! I'm a *Full Stack Web Developer* and *CyberSecurit
 
 🌟 Aspiring Full Stack Web Developer
 
-🚀 Currently diving deep into Full Stack Web Development
-
-💻 Skills & Technologies
-- 🌟 *HTML5*  
-- 🎨 *CSS3*   
-- 📜 *JavaScript (Beginner)*  
-- 🐍 *Python (Beginner)*
-- ⚙️ *C*  
-- 🚀 *C++*  
-- ☕ *Java*  
-- 🗄️ *MySQL*  
+🚀 Currently diving deep into Full Stack Web Development 
 
 🔧 I'm always eager to explore and experiment with new technologies, continuously enhancing my skillset.
 
-<h2 align="center"><b>🌐 Languages & Technologies Known 🌐</b></h2>
+<h2 align="center"><b>🌐 Languages Known 🌐</b></h2>
 <br/>
 
 <p align="center">
