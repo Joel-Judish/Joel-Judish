@@ -11,6 +11,17 @@ Welcome to my GitHub profile! I'm a *Full Stack Web Developer* and *CyberSecurit
 
 🚀 Currently diving deep into Full Stack Web Development
 
+💻 Skills & Technologies
+- 🌟 *HTML5*  
+- 🎨 *CSS3*  
+- 💅 *Bootstrap*  
+- 📜 *JavaScript (Beginner)*  
+- 🐍 *Python (Beginner)*  
+
+🔧 I'm always excited to learn and experiment with new tools and frameworks.
+
+
+
 - 💞️ I’m looking to collaborate on Web development & Ethical Hacking Projects
 - 📫 How to reach me https://www.linkedin.com/in/joel-judish/
 
