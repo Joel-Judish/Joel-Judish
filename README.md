@@ -13,20 +13,22 @@ Welcome to my GitHub profile! I'm a *Full Stack Web Developer* and *CyberSecurit
 
 🔧 I'm always eager to explore and experiment with new technologies, continuously enhancing my skillset.
 
-<h2 align="center"><b> 📌 Language Stacks</b></h2>
-<br/>
+<div align = "center" >
+   
+  ## 📌 Language Stacks
+  <br/>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+    </a>
+  </p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
-  </a>
-</p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js" />
-  </a>
-</p>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,js" />
+    </a>
+  </p>
 
 
 
