@@ -1,4 +1,4 @@
-# Hi there! I am Joel Judish👋
+<h1 align="center">Hi there 👋, I am Joel Judish</h1>
 
 Welcome to my GitHub profile! I'm a *Full Stack Web Developer* and *CyberSecurity Enthusiast* passionate about Web Development and exploring the latest technologies in CyberSecurity.
 
