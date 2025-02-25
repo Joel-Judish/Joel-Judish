@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a *Full Stack Web Developer* and *CyberSecurit
 
 🔧 I'm always eager to explore and experiment with new technologies, continuously enhancing my skillset.
 
-<h2 align="center"><b>## 📌 Language Stacks</b></h2>
+<h2 align="center"><b> 📌 Language Stacks</b></h2>
 <br/>
 
 <p align="center">
